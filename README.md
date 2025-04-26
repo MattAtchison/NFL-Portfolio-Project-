@@ -61,16 +61,18 @@ This project demonstrates a full end-to-end data engineering and analytics workf
 ## 📸 Python Data Extraction (Screenshots)
 For more details, check out the [Python_scrape.py](https://github.com/MattAtchison/NFL-Portfolio-Project-/blob/main/Python_scrape) file.
 ![image](https://github.com/user-attachments/assets/252ea083-1f5d-4072-a3e4-e84b117f3299)
+![image](https://github.com/user-attachments/assets/f3d6abf7-d834-40a5-87b9-5c30844229fe)
+![image](https://github.com/user-attachments/assets/dc9dd879-ea7f-433b-924a-cdd50c84567d)
+
 
 ## 📸 SQL Data Cleaning & Normalization (Screenshots)
-_Example sections to add:_
-- SQL cleaning scripts
-- Null checks
-- Data transformations
+For more details, check out the [SQL Cleaning Script](https://github.com/MattAtchison/NFL-Portfolio-Project-/blob/main/SQL%20Cleaning%20Script) file.
+![image](https://github.com/user-attachments/assets/b653663b-87c8-4015-bcec-eeeceff3d2e8)
+
 
 ## 📸 Data Modeling - ERD (Screenshots)
-_Example sections to add:_
-- Final Entity Relationship Diagram (ERD) visualization
+For more details, check out the [ERD](https://github.com/MattAtchison/NFL-Portfolio-Project-/blob/main/ERD) file.
+
 
 ## 📸 SQL Analytical Insights (Screenshots)
 _Example sections to add:_
