@@ -1,0 +1,109 @@
+name,id,team,position,height,weight,age,college,jersey,experience
+Aaron Brewer,15241,Arizona Cardinals,LS,"6' 5""",232 lbs,34,San Diego State,46,13
+Blake Gillikin,4045180,Arizona Cardinals,P,"6' 2""",196 lbs,27,Penn State,12,5
+Chad Ryland,4363538,Arizona Cardinals,PK,"6' 0""",195 lbs,25,Maryland,38,2
+Younghoe Koo,3049899,Atlanta Falcons,PK,"5' 10""",193 lbs,30,Georgia Southern,6,7
+Lenny Krieg,5277116,Atlanta Falcons,PK,"6' 1""",210 lbs,22,na,na,0
+Liam McCullough,3915528,Atlanta Falcons,LS,"6' 2""",247 lbs,27,Ohio State,49,3
+Bradley Pinion,2977680,Atlanta Falcons,P,"6' 5""",255 lbs,30,Clemson,13,10
+Nick Moore,3915184,Baltimore Ravens,LS,"6' 2""",260 lbs,32,Georgia,46,3
+Jordan Stout,4260224,Baltimore Ravens,P,"6' 3""",209 lbs,26,Penn State,11,3
+Justin Tucker,15683,Baltimore Ravens,PK,"6' 1""",191 lbs,35,Texas,9,13
+Tyler Bass,3917232,Buffalo Bills,PK,"5' 10""",183 lbs,28,Georgia Southern,2,5
+Jake Camarda,4379396,Buffalo Bills,P,"6' 1""",193 lbs,25,Georgia,na,3
+Reid Ferguson,2976549,Buffalo Bills,LS,"6' 2""",235 lbs,31,LSU,69,8
+Brad Robbins,4258197,Buffalo Bills,P,"6' 1""",205 lbs,26,Michigan,na,2
+JJ Jansen,11759,Carolina Panthers,LS,"6' 2""",235 lbs,39,Notre Dame,44,17
+Sam Martin,15928,Carolina Panthers,P,"6' 1""",211 lbs,35,App State,na,12
+Matthew Wright,3128444,Carolina Panthers,PK,"5' 11""",174 lbs,29,UCF,na,3
+Scott Daly,2980138,Chicago Bears,LS,"6' 1""",245 lbs,31,Notre Dame,46,4
+Cairo Santos,17427,Chicago Bears,PK,"5' 8""",175 lbs,33,Tulane,8,11
+Tory Taylor,4686889,Chicago Bears,P,"6' 4""",223 lbs,27,Iowa,19,0
+Cal Adomitis,4240719,Cincinnati Bengals,LS,"6' 2""",238 lbs,26,Pittsburgh,48,3
+Evan McPherson,4360234,Cincinnati Bengals,PK,"5' 11""",185 lbs,25,Florida,2,4
+Ryan Rehkow,4608820,Cincinnati Bengals,P,"6' 5""",235 lbs,26,BYU,8,0
+Corey Bojorquez,4039396,Cleveland Browns,P,"6' 0""",217 lbs,28,New Mexico,13,7
+Dustin Hopkins,15965,Cleveland Browns,PK,"6' 2""",210 lbs,34,Florida State,7,11
+Rex Sunahara,3913293,Cleveland Browns,LS,"6' 6""",242 lbs,28,West Virginia,50,1
+Andre Szmyt,4258620,Cleveland Browns,PK,"6' 0""",200 lbs,26,Syracuse,10,1
+Bryan Anger,14950,Dallas Cowboys,P,"6' 3""",202 lbs,36,California,5,13
+Brandon Aubrey,3953687,Dallas Cowboys,PK,"6' 3""",218 lbs,30,Notre Dame,17,2
+Trent Sieg,3052357,Dallas Cowboys,LS,"6' 3""",240 lbs,29,Colorado State,44,7
+Mitchell Fraboni,3139166,Denver Broncos,LS,"6' 2""",223 lbs,28,Arizona State,48,3
+Matt Haack,3043237,Denver Broncos,P,"6' 0""",205 lbs,30,Arizona State,na,8
+Wil Lutz,2985659,Denver Broncos,PK,"5' 11""",184 lbs,30,Georgia State,3,9
+Jake Bates,4689936,Detroit Lions,PK,"5' 10""",202 lbs,26,Arkansas,39,1
+Jack Fox,3916370,Detroit Lions,P,"6' 2""",218 lbs,28,Rice,3,5
+Hogan Hatten,4571755,Detroit Lions,LS,"6' 2""",239 lbs,24,Idaho,49,0
+Alex Hale,4361831,Green Bay Packers,PK,"6' 1""",203 lbs,26,Oklahoma State,16,0
+Brandon McManus,16339,Green Bay Packers,PK,"6' 3""",201 lbs,33,Temple,17,11
+Matt Orzech,4422336,Green Bay Packers,LS,"6' 3""",245 lbs,29,Azusa Pac,42,5
+Daniel Whelan,4248789,Green Bay Packers,P,"6' 5""",216 lbs,26,UC Davis,19,2
+Tucker Addington,4034729,Houston Texans,LS,"6' 2""",230 lbs,27,Sam Houston,na,1
+Ka'imi Fairbairn,2971573,Houston Texans,PK,"6' 0""",183 lbs,31,UCLA,15,9
+Tommy Townsend,3915398,Houston Texans,P,"6' 1""",191 lbs,28,Florida,6,5
+Matt Gay,4249087,Indianapolis Colts,PK,"6' 0""",232 lbs,31,Utah,7,6
+Luke Rhodes,2566045,Indianapolis Colts,LS,"6' 2""",238 lbs,32,William & Mary,46,8
+Rigoberto Sanchez,3914922,Indianapolis Colts,P,"6' 0""",195 lbs,30,Hawai'i,8,8
+Spencer Shrader,4571557,Indianapolis Colts,PK,"6' 2""",201 lbs,25,Notre Dame,40,0
+Logan Cooke,3115480,Jacksonville Jaguars,P,"6' 5""",230 lbs,29,Mississippi State,9,7
+Cam Little,4686361,Jacksonville Jaguars,PK,"6' 1""",172 lbs,21,Arkansas,39,0
+Ross Matiscik,3928931,Jacksonville Jaguars,LS,"6' 0""",240 lbs,28,Baylor,46,5
+Matt Araiza,4361496,Kansas City Chiefs,P,"6' 1""",200 lbs,24,San Diego State,14,1
+Harrison Butker,3055899,Kansas City Chiefs,PK,"6' 4""",205 lbs,29,Georgia Tech,7,8
+James Winchester,16665,Kansas City Chiefs,LS,"6' 3""",209 lbs,35,Oklahoma,41,10
+Jacob Bobenmoyer,3925443,Las Vegas Raiders,LS,"6' 2""",235 lbs,27,Northern Colorado,50,5
+Daniel Carlson,3051909,Las Vegas Raiders,PK,"6' 5""",215 lbs,30,Auburn,2,7
+AJ Cole,3686689,Las Vegas Raiders,P,"6' 4""",220 lbs,29,NC State,6,6
+Cameron Dicker,4362081,Los Angeles Chargers,PK,"6' 1""",216 lbs,24,Texas,11,3
+Josh Harris,15151,Los Angeles Chargers,LS,"6' 1""",224 lbs,35,Auburn,47,13
+JK Scott,3126368,Los Angeles Chargers,P,"6' 5""",208 lbs,29,Alabama,16,6
+Ethan Evans,5125875,Los Angeles Rams,P,"6' 3""",250 lbs,23,Wingate,42,2
+Joshua Karty,4566192,Los Angeles Rams,PK,"6' 2""",207 lbs,23,Stanford,16,0
+Alex Ward,4243545,Los Angeles Rams,LS,"6' 4""",241 lbs,25,UCF,47,2
+Jake Bailey,3931395,Miami Dolphins,P,"6' 2""",214 lbs,27,Stanford,16,6
+Blake Ferguson,3843470,Miami Dolphins,LS,"6' 3""",230 lbs,27,LSU,48,5
+Jason Sanders,3124679,Miami Dolphins,PK,"5' 11""",195 lbs,29,New Mexico,7,7
+Ryan Stonehouse,4256051,Miami Dolphins,P,"5' 10""",193 lbs,25,Colorado State,na,4
+Andrew DePaola,15726,Minnesota Vikings,LS,"6' 1""",229 lbs,37,Rutgers,42,10
+Will Reichard,4567104,Minnesota Vikings,PK,"6' 1""",187 lbs,24,Alabama,16,0
+Ryan Wright,4361823,Minnesota Vikings,P,"6' 3""",245 lbs,24,Tulane,17,3
+Bryce Baringer,4240545,New England Patriots,P,"6' 2""",215 lbs,25,Michigan State,17,2
+Joe Cardona,2575907,New England Patriots,LS,"6' 2""",245 lbs,32,Navy,49,10
+John Parker Romo,4051167,New England Patriots,PK,"5' 11""",190 lbs,27,Virginia Tech,11,1
+Blake Grupe,4259619,New Orleans Saints,PK,"5' 7""",156 lbs,26,Notre Dame,19,2
+Matthew Hayball,4571597,New Orleans Saints,P,"6' 0""",189 lbs,28,Vanderbilt,43,0
+Charlie Smyth,5208518,New Orleans Saints,PK,"6' 4""",210 lbs,23,na,39,0
+Zach Wood,2575788,New Orleans Saints,LS,"6' 3""",255 lbs,32,SMU,49,8
+Graham Gano,12460,New York Giants,PK,"6' 2""",202 lbs,37,Florida State,9,15
+Jamie Gillan,3936185,New York Giants,P,"6' 1""",207 lbs,27,Arkansas-Pine Bluff,6,6
+Casey Kreiter,17304,New York Giants,LS,"6' 1""",250 lbs,34,Iowa,59,9
+Jude McAtamney,5092436,New York Giants,PK,"6' 2""",205 lbs,24,Rutgers,99,0
+Anders Carlson,4242519,New York Jets,PK,"6' 5""",220 lbs,26,Auburn,18,2
+Thomas Hennessy,2983155,New York Jets,LS,"6' 2""",246 lbs,30,Duke,42,8
+Austin McNamara,4427982,New York Jets,P,"6' 5""",204 lbs,24,Texas Tech,na,0
+Thomas Morstead,12701,New York Jets,P,"6' 4""",225 lbs,39,SMU,6,16
+Greg Zuerlein,14993,New York Jets,PK,"6' 0""",195 lbs,37,Mo Western,9,13
+Jake Elliott,3050478,Philadelphia Eagles,PK,"5' 9""",167 lbs,30,Memphis,4,8
+Charley Hughlett,15379,Philadelphia Eagles,LS,"6' 4""",248 lbs,34,UCF,na,10
+Braden Mann,4035239,Philadelphia Eagles,P,"5' 11""",198 lbs,27,Texas A&M,10,5
+Chris Boswell,17372,Pittsburgh Steelers,PK,"6' 2""",185 lbs,34,Rice,9,10
+Cameron Johnston,3051397,Pittsburgh Steelers,P,"5' 11""",194 lbs,33,Ohio State,5,7
+Christian Kuntz,2978524,Pittsburgh Steelers,LS,"6' 1""",228 lbs,30,Duquesne,46,4
+Corliss Waitman,3125280,Pittsburgh Steelers,P,"6' 2""",210 lbs,29,Mississippi State,8,2
+Jake Moody,4372066,San Francisco 49ers,PK,"6' 1""",210 lbs,25,Michigan,4,2
+Jon Weeks,13729,San Francisco 49ers,LS,"5' 10""",242 lbs,39,Baylor,na,6
+Mitch Wishnowsky,4035685,San Francisco 49ers,P,"6' 2""",220 lbs,33,Utah,3,6
+Michael Dickson,3929851,Seattle Seahawks,P,"6' 2""",208 lbs,29,Texas,4,7
+Jason Myers,2473037,Seattle Seahawks,PK,"5' 10""",190 lbs,33,Marist,5,10
+Chris Stoll,4259606,Seattle Seahawks,LS,"6' 2""",255 lbs,26,Penn State,41,2
+Evan Deckers,4361727,Tampa Bay Buccaneers,LS,"6' 3""",252 lbs,26,Duke,86,1
+Riley Dixon,2577619,Tampa Bay Buccaneers,P,"6' 4""",221 lbs,31,Syracuse,na,9
+Jake Julien,4244814,Tampa Bay Buccaneers,P,"6' 2""",217 lbs,26,Eastern Michigan,na,0
+Chase McLaughlin,3150744,Tampa Bay Buccaneers,PK,"6' 0""",190 lbs,28,Illinois,4,6
+Morgan Cox,13848,Tennessee Titans,LS,"6' 4""",233 lbs,38,Tennessee,46,15
+Johnny Hekker,15153,Tennessee Titans,P,"6' 5""",225 lbs,35,Oregon State,na,13
+Joey Slye,3124084,Tennessee Titans,PK,"5' 11""",213 lbs,28,Virginia Tech,na,6
+Zane Gonzalez,3043234,Washington Commanders,PK,"6' 0""",202 lbs,29,Arizona State,47,7
+Tyler Ott,17378,Washington Commanders,LS,"6' 3""",252 lbs,33,Harvard,69,10
+Tress Way,16166,Washington Commanders,P,"6' 1""",220 lbs,34,Oklahoma,10,11
