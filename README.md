@@ -59,7 +59,7 @@ This project demonstrates a full end-to-end data engineering and analytics workf
 - **Version Control**: GitHub
 
 ## 📸 Python Data Extraction (Screenshots)
-For more details, check out the [Python_scrape.py](https://github.com/MattAtchison/NFL-Portfolio-Project-/blob/main/Python_scrape.py) file.
+For more details, check out the [Python_scrape.py](https://github.com/MattAtchison/NFL-Portfolio-Project-/blob/main/Python_scrape) file.
 ![image](https://github.com/user-attachments/assets/252ea083-1f5d-4072-a3e4-e84b117f3299)
 
 ## 📸 SQL Data Cleaning & Normalization (Screenshots)
