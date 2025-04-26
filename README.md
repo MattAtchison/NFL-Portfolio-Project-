@@ -15,7 +15,7 @@ A comprehensive pipeline for scraping NFL data from the ESPN website using Selen
 ## 🚀 Project Overview
 This project demonstrates a full end-to-end data engineering and analytics workflow centered around NFL data.
 
-- Data is extracted from ESPN using a combination of backend APIs and Selenium for dynamic web pages.
+- Data is extracted from ESPN using a combination of backend APIs, JSON data, and Selenium for dynamic web pages.
 - Loaded into a MySQL database, cleaned and transformed via SQL.
 - Modeled with a many-to-many Entity Relationship Diagram (ERD).
 - Analyzed and created insights using MySQL.
@@ -30,7 +30,7 @@ This project demonstrates a full end-to-end data engineering and analytics workf
 - Transformed and prepared extracted data for database ingestion.
 
 ### Data Cleaning and Normalization
-- Loaded raw data into MySQL staging tables.
+- Loaded raw data into MySQL.
 - Cleaned the data by removing duplicates, handling nulls, fixing data types, and splitting composite fields.
 - Built normalized, relational tables with proper use of primary and foreign keys.
 - Created many-to-many relationship tables where needed (e.g., players, games, referees).
@@ -59,9 +59,8 @@ This project demonstrates a full end-to-end data engineering and analytics workf
 - **Version Control**: GitHub
 
 ## 📸 Python Data Extraction (Screenshots)
-_Example sections to add:_
-- Python script scraping with Selenium
-- API JSON extraction
+For more details, check out the [Python_scrape.py](https://github.com/MattAtchison/NFL-Portfolio-Project-/blob/main/Python_scrape.py) file.
+![image](https://github.com/user-attachments/assets/252ea083-1f5d-4072-a3e4-e84b117f3299)
 
 ## 📸 SQL Data Cleaning & Normalization (Screenshots)
 _Example sections to add:_
