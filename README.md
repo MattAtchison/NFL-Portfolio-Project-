@@ -67,23 +67,24 @@ For more details, check out the [Python_scrape.py](https://github.com/MattAtchis
 
 ## 📸 SQL Data Cleaning & Normalization (Screenshots)
 For more details, check out the [SQL Cleaning Script](https://github.com/MattAtchison/NFL-Portfolio-Project-/blob/main/SQL%20Cleaning%20Script) file.
-![image](https://github.com/user-attachments/assets/b653663b-87c8-4015-bcec-eeeceff3d2e8)
+
 
 
 ## 📸 Data Modeling - ERD (Screenshots)
 For more details, check out the [ERD](https://github.com/MattAtchison/NFL-Portfolio-Project-/blob/main/ERD) file.
+![image](https://github.com/user-attachments/assets/b9393f53-b47c-4e98-b9cd-4fc36e8badab)
+![image](https://github.com/user-attachments/assets/a08c0da6-0e18-4c8f-9e06-7934fe26904d)
+
 
 
 ## 📸 SQL Analytical Insights (Screenshots)
-_Example sections to add:_
-- SQL queries using window functions
-- Insights from player and team stats
+For more details, check out the [SQL Insights](https://github.com/MattAtchison/NFL-Portfolio-Project-/blob/main/SQL%20Insights) file.
+![image](https://github.com/user-attachments/assets/b653663b-87c8-4015-bcec-eeeceff3d2e8)
 
 ## 📸 Tableau Dashboards (Screenshots)
-_Example sections to add:_
-- Player performance dashboards
-- QB rating and win analysis
-- Team performance comparisons
+For more details, check out the [Dashboard](https://github.com/MattAtchison/NFL-Portfolio-Project-/blob/main/Dashboard) file.
+![image](https://github.com/user-attachments/assets/740f5226-4087-4e35-af34-8a2fa6328536)
+
 
 ## 📈 Next Steps
 - Expand analysis to postseason and player injuries.
