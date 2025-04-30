@@ -67,6 +67,8 @@ For more details, check out the [Python_scrape.py](https://github.com/MattAtchis
 
 ## 📸 SQL Data Cleaning & Normalization (Screenshots)
 For more details, check out the [SQL Cleaning Script](https://github.com/MattAtchison/NFL-Portfolio-Project-/blob/main/SQL%20Cleaning%20Script) file.
+![image](https://github.com/user-attachments/assets/99bf078c-5304-4c61-ae30-69a209840cad)
+
 
 
 
